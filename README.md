@@ -3,6 +3,7 @@
 Two web apps built on the same bank customer dataset and sharing the same feature-engineering pipeline, powered by Artificial Neural Networks (TensorFlow/Keras) and deployed with Streamlit:
  
 1. **Churn Classifier** — predicts whether a customer is likely to leave the bank (binary classification)
+**Live demo (churn classifier):**https://ann-classification-churn-kydggkewefu2rppckvvzyx.streamlit.app/
 2. **Salary Regressor** — predicts a customer's estimated salary (regression)
 **Live demo (Salary Regressor):** https://ann-classification-churn-gqrmgrgrpj9hhfbvmbpv6c.streamlit.app/
  
