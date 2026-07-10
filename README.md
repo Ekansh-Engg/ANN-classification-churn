@@ -119,4 +119,3 @@ Python version: 3.11 (see `runtime.txt`)
 - Add SHAP/feature-importance explanations to both apps for prediction interpretability
 - Rename `scaler.pkl` / `scaler1.pkl` to self-documenting names (e.g. `churn_scaler.pkl` / `salary_scaler.pkl`) to prevent future mix-ups
 - Containerize with Docker for reproducible deployment
- 
